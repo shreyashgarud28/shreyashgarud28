@@ -1,0 +1,28 @@
+ARCTIC GRAPHITE — UPLOAD NOTES
+
+1. Open GitHub and create a PUBLIC repository named exactly after your GitHub username.
+   For a profile README, repository name must match your username exactly.
+2. Upload README.md and the entire assets/ folder into the repository root.
+3. Commit the changes.
+4. Visit your GitHub profile to check the result.
+
+Files:
+- README.md
+- assets/hero.svg
+- assets/about-life.svg
+- assets/stack.svg
+- assets/id-dashboard.svg
+- assets/connect.svg
+- preview.html
+
+Personalization still needed:
+- Add your portrait later by editing assets/hero.svg.
+- Supply exact LinkedIn / Instagram / other social URLs before adding links.
+- Add verified GitHub statistics only if you want them displayed.
+- Confirm project repository URLs if you want each project title linked.
+
+Design notes:
+- Palette: #080C10 background, #101820 panels, #67D9F5 accent, #D9EAF0 text.
+- Angular corner cuts, technical grid, numbered labels and restrained cyan edge-lines add a subtle motorsport/engineering feel.
+- SVG artwork is self-contained and makes no external network requests.
+- CSS animation is intentionally subtle and respects prefers-reduced-motion. GitHub's SVG rendering support can vary, so inspect the profile after upload.
